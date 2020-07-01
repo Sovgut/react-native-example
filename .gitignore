@@ -1,3 +1,4 @@
 .expo-shared
 .git
+.expo
 node_modules
